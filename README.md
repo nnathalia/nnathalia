@@ -1,7 +1,7 @@
 ### Olá eu sou a Nathalia Mariano!
 
   
-- 💻 Atualmente estou no 4° período de Análise e Desenvolvimento de Sisemas
+- 💻 Atualmente estou no 4° período de Análise e Desenvolvimento de Sistemas
 - 👩🏽‍💻 Estudando principalmente CSS, HTML, JavaScript e Python
   
 <div>
