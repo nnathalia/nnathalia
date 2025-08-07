@@ -37,15 +37,19 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 
-<h3>Databases:</h2>
+<h3>Databases:</h3>
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 
 <br>
+<br>
 
-| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnathalia&theme=material_palenight) | ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnathalia&theme=material_palenight) |
-| :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
+<div align="center" width="100%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnathalia&theme=material_palenight">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnathalia&theme=material_palenight">
+</div>
+
 
 ![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=110&color=0:C792EA,100:82AAFF)
