@@ -45,7 +45,7 @@
 
 <br>
 
-<div style="display: flex; gap: 10px;">
+<div style="display: flex;">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnathalia&theme=material_palenight)
 
