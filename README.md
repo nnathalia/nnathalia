@@ -4,8 +4,7 @@
 
 ![Desenvolvedora codando](assets/Cat%20typing.gif)
 
-<h1 style="margin-bottom: 0; border-bottom: none;">Nathalia Mar
-iano</h1>
+<h1 style="margin-bottom: 0; border-bottom: none;">Nathalia Mariano</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=nunito&center=true&pause=1000&color=82AAFF&width=437&lines=Desenvolvedora+Frontend" alt="Typing SVG"/>
 <p style="font-family: 'Nunito', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
