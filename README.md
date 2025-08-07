@@ -4,7 +4,8 @@
 
 ![Desenvolvedora codando](assets/Cat%20typing.gif)
 
-<h1 style="margin-bottom: 0; border-bottom: none;">Nathalia Mariano</h1>
+<h1 style="margin-bottom: 0; border-bottom: none;">Nathalia Mar
+iano</h1>
 
 <img src="https://readme-typing-svg.demolab.com?font=nunito&center=true&pause=1000&color=82AAFF&width=437&lines=Desenvolvedora+Frontend" alt="Typing SVG"/>
 <p style="font-family: 'Nunito', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
@@ -45,12 +46,7 @@
 
 <br>
 
-<div style="display: flex;">
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnathalia&theme=material_palenight)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnathalia&theme=material_palenight)
-
-</div>
+| ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnathalia&theme=material_palenight) | ![Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnathalia&theme=material_palenight) |
+| :------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------: |
 
 ![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=110&color=0:C792EA,100:82AAFF)
