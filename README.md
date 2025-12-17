@@ -6,7 +6,7 @@
 
 <h1 style="margin-bottom: 0; border-bottom: none;">Nathalia Mariano</h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=nunito&center=true&pause=1000&color=82AAFF&width=437&lines=Desenvolvedora+Frontend" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=nunito&center=true&pause=1000&color=82AAFF&width=437&lines=Desenvolvedora+Web" alt="Typing SVG"/>
 <p style="font-family: 'Nunito', Tahoma, Geneva, Verdana, sans-serif; font-size: 16px;">
   Olá! Me chamo Nathalia Mariano Lopes, sou estudante de Análise e Desenvolvimento de Sistemas e apaixonada por tecnologia e desenvolvimento web. Meu foco principal está no desenvolvimento frontend, onde posso unir criatividade, performance e usabilidade para criar interfaces modernas e funcionais.
 </p>
