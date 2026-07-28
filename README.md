@@ -46,10 +46,4 @@
 <br>
 <br>
 
-<div align="center" width="100%">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nnathalia&theme=material_palenight">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nnathalia&theme=material_palenight">
-</div>
-
-
 ![Footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=110&color=0:C792EA,100:82AAFF)
