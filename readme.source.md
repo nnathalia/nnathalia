@@ -317,11 +317,11 @@
 ```
 
 <p align="center">
-  <img src="assets/cat-typing.gif" height="34" alt="Gatinho digitando">
+  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="Streak de contribuições"></a>
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="Streak de contribuições"></a>
+  <img src="assets/cat-typing.gif" height="30" alt="Gatinho digitando">
 </p>
 
 ```aura width=860 height=64 link="https://github.com/collectioneur/readme-aura"
