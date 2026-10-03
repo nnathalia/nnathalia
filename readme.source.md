@@ -50,18 +50,10 @@
     <ellipse id="aura-4" cx="640" cy="250" rx="160" ry="130" fill="url(#p4)" />
     <ellipse id="aura-5" cx="760" cy="240" rx="150" ry="125" fill="url(#p1)" />
     <rect x="0" y="0" width="860" height="220" fill="url(#scan)" />
-    <rect id="cursor" x="321" y="54" width="8" height="14" fill="#ff6b9d" />
+    <rect id="cursor" x="181" y="54" width="8" height="14" fill="#ff6b9d" />
   </svg>
 
-  <div style={{
-    position: 'absolute', left: 44, top: 54, width: 112, height: 112,
-    borderRadius: 56, display: 'flex', alignItems: 'center', justifyContent: 'center',
-    background: 'linear-gradient(135deg, #ff6b9d, #7b3ce0 55%, #4a9fd8)',
-  }}>
-    <img src={github?.user?.avatarUrl ?? 'https://github.com/nnathalia.png'} width={102} height={102} style={{ borderRadius: 51 }} />
-  </div>
-
-  <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 184, marginTop: 52, gap: 9 }}>
+  <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 44, marginTop: 52, gap: 9 }}>
     <div style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
       <div style={{ display: 'flex', fontSize: 13, fontWeight: 700, color: '#ff6b9d', letterSpacing: '2.4px' }}>
         OLÁ, EU SOU A
@@ -73,7 +65,7 @@
     </div>
 
     <div style={{ display: 'flex', fontSize: 15, color: 'rgba(233,214,235,0.72)' }}>
-      Desenvolvedora Full Stack e Mobile · Análise e Desenvolvimento de Sistemas
+      Desenvolvedora Web e Mobile · Análise e Desenvolvimento de Sistemas
     </div>
 
     <div style={{ display: 'flex', gap: 8, marginTop: 6 }}>
